@@ -18,7 +18,9 @@
   <img align="left" width="40" heigth="40" title="Githuh" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
 </a>
 
-# lenguages, frameworks and libraries: 
+
+## lenguages, frameworks and libraries: 
+
 <a href="https://github.com/Juliorivasz" target="_blank">
   <img align="left" width="40" heigth="40" title="githuh" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
 </a>
