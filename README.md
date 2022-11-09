@@ -19,9 +19,9 @@
 </a>
 
 
-## lenguages, frameworks and libraries: 
-<a href="https://github.com/Juliorivasz" target="_blank">
-  <img width="40" heigth="40" title="githuh" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
+## Lenguages, Frameworks and Libraries: 
+<a href="https://reactjs.org/" target="_blank">
+  <img width="40" heigth="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
 </a>
 <a href="https://github.com/Juliorivasz" target="_blank">
   <img width="40" heigth="40" title="githuh" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
