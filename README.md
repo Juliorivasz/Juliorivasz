@@ -6,7 +6,7 @@
 
 ## How to reach me:
 <a href="https://www.linkedin.com/in/julio-rivas-frontend" target="_blank">
-  <img align="left" width="40" height="40" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  <img align="left" width="60" height="40" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
 <a href="https://www.instagram.com/julio_rivas17" target="_blank">
   <img align="left" width="40" heigth="40" title="Instagram" src="https://eltallerdehector.com/wp-content/uploads/2022/06/cd939-logo-instagram-png.png"/>
