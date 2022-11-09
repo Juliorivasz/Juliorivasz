@@ -21,16 +21,16 @@
 
 ## Lenguages, Frameworks and Libraries: 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-  <img width="100" heigth="100" title="githuh" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
+  <img width="60" heigth="60" title="githuh" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img width="40" heigth="40" title="githuh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </a>
 <a href="https://www.w3schools.com/java/" target="_blank">
-  <img width="40" heigth="40" title="githuh" src="https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png"/>
+  <img width="60" heigth="60" title="githuh" src="https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png"/>
 </a>
 <a href="https://reactjs.org/" target="_blank">
-  <img width="40" heigth="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+  <img width="60" heigth="60" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
 </a>
 <a href="https://angular.io/" target="_blank">
   <img width="40" heigth="40" title="githuh" src="https://angular.io/assets/images/logos/angular/angular.png"/>
