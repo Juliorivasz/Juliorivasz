@@ -1,7 +1,9 @@
-## Hi, I’m Julio Rivas
-- 👀 I’m interested in Front end Developer
-- 🌱 I’m currently improving my React knowledge
-- 💞️ I’m looking to collaborate on design UI
+# Hi, I’m Julio Rivas
+- 👀 **I’m interested in Front end Developer**
+- 🌱 **I’m currently improving my React knowledge**
+- 💞️ **I’m looking to collaborate on design UI**
+
+
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/julio-rivas-frontend" target="_blank">
