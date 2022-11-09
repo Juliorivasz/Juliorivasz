@@ -1,10 +1,10 @@
-#Hi, I’m Julio Rivas
+# Hi, I’m Julio Rivas
 - 👀 **I’m interested in Front end Developer**
 - 🌱 **I’m currently improving my React knowledge**
 - 💞️ **I’m looking to collaborate on design UI**
 
 
-##How to reach me:
+## How to reach me:
 <a href="https://www.linkedin.com/in/julio-rivas-frontend" target="_blank">
   <img align="left" width="40" height="40" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
@@ -19,7 +19,7 @@
 </a>
 
 
-##lenguages, frameworks and libraries: 
+## lenguages, frameworks and libraries: 
 
 <a href="https://github.com/Juliorivasz" target="_blank">
   <img width="40" heigth="40" title="githuh" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
