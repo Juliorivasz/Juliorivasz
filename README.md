@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julio Rivas
+## Hi, I’m Julio Rivas
 - 👀 I’m interested in Front end Developer
 - 🌱 I’m currently improving my React knowledge
 - 💞️ I’m looking to collaborate on design UI
@@ -9,6 +9,7 @@
 <a href="https://github.com/Juliorivasz" target="_blank">
   <img align="center" width="35" heigth="35" title="github julio rivas" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
  </a>
+
 
 <!---
 Juliorivasz/Juliorivasz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
