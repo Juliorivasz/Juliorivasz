@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/julio-rivas-frontend" target="_blank">
   <img width="33" height="33" title="linkedin julio rivas" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
-  .
+  <br>
 <a href="https://github.com/Juliorivasz" target="_blank">
   <img width="35" heigth="35" title="github julio rivas" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
  </a>
