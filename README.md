@@ -14,7 +14,7 @@
   <img align="left" width="40" heigth="40" title="instagram" src="https://eltallerdehector.com/wp-content/uploads/2022/06/cd939-logo-instagram-png.png"/>
 </a>
 <a href="https://github.com/Juliorivasz](https://www.facebook.com/juliorivasz" target="_blank">
-  <img align="left" width="35" heigth="35" title="github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHe2GslsjaoJquxKTu31ASib1vee0EfYQYwMc1L0-MXa3X57L6P4snY1TvBNRecl_qW1I&usqp=CAU"/>
+  <img align="left" width="40" heigth="40" title="github" src="https://w7.pngwing.com/pngs/991/568/png-transparent-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png"/>
 </a>
 <a href="https://github.com/Juliorivasz" target="_blank">
   <img align="left" width="35" heigth="35" title="githuh" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
