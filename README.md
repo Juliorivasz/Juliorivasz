@@ -42,7 +42,7 @@
   <img width="50" heigth="60" title="Node js" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction" target="_blank">
-  <img width="60" heigth="60" title="Express js" src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png"/>
+  <img width="90" heigth="90" title="Express js" src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png"/>
 </a>
 
 
