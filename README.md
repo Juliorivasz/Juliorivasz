@@ -6,7 +6,7 @@
 
 ## How to reach me:
 <a href="https://www.linkedin.com/in/julio-rivas-frontend" target="_blank">
-  <img align="left" width="150" height="40" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  <img align="left" width="40" height="40" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
 <a href="https://www.instagram.com/julio_rivas17" target="_blank">
   <img align="left" width="40" heigth="40" title="Instagram" src="https://eltallerdehector.com/wp-content/uploads/2022/06/cd939-logo-instagram-png.png"/>
@@ -21,7 +21,7 @@
 
 ## Lenguages, Frameworks and Libraries: 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-  <img width="40" heigth="40" title="githuh" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
+  <img width="40" heigth="60" title="githuh" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img width="40" heigth="40" title="githuh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
