@@ -8,7 +8,7 @@
   <img width="33" height="33" title="linkedin julio rivas" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
  
 <a href="https://github.com/Juliorivasz">
-  <img width="50" heigth="50" title="github julio rivas" src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Photo.png](https://es.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png"/>
+  <img width="50" heigth="50" title="github julio rivas" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
  </a>
 
 <!---
