@@ -6,9 +6,8 @@
 
 <a href="https://www.linkedin.com/in/julio-rivas-frontend">
   <img width="33" height="33" title="linkedin julio rivas" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
- 
 <a href="https://github.com/Juliorivasz">
-  <img width="50" heigth="50" title="github julio rivas" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
+  <img width="40" heigth="40" title="github julio rivas" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png"/>
  </a>
 
 <!---
