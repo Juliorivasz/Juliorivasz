@@ -4,7 +4,7 @@
 - 💞️ **I’m looking to collaborate on design UI**
 
 ## My PortFolio:
-<a href="https://www.juliorivasz.github.io/PortFolio" target="_blank"><p>Watch</p></a>
+<a href="https://www.juliorivasz.github.io/PortFolio" target="_blank">Watch</a>
 
 
 ## How to reach me:
