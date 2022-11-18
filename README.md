@@ -1,8 +1,8 @@
-# Hi, I’m Julio Rivas
+``# Hi, I’m Julio Rivas
 - 👀 **I’m interested in Front end Developer**
 - 🌱 **I’m currently improving my React knowledge**
 - 💞️ **I’m looking to collaborate on design UI**
-
+````
 ## My PortFolio:
 <p>Click on the image to see:</p>
 <a href="https://juliorivasz.github.io/PortFolio/" target="_blank" >
@@ -47,7 +47,7 @@
 <a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction" target="_blank">
   <img width="80" heigth="80" title="Express js" src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png"/>
 </a>
-
+````
 
 
 <!---
