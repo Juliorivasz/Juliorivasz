@@ -2,7 +2,6 @@
 - 👀 **I’m interested in Front end Developer**
 - 🌱 **I’m currently improving my React knowledge**
 - 💞️ **I’m looking to collaborate on design UI**
-- 
 ## My PortFolio:
 <p>Click on the image to see:</p>
 <a href="https://juliorivasz.github.io/PortFolio/" target="_blank" >
