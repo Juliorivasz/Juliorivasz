@@ -1,5 +1,5 @@
 # Hi, I’m Julio Rivas
-- 👀 **I’m interested in Front end Developer**
+- 👀 **I’m Front end Developer**
 - 🌱 **I’m currently improving my React knowledge**
 - 💞️ **I’m looking to collaborate on design UI**
 ## My PortFolio:
