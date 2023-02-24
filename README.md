@@ -28,17 +28,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img width="40" heigth="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </a>
-<a href="https://www.w3schools.com/java/" target="_blank">
-  <img width="70" heigth="70" title="Java" src="https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png"/>
-</a>
 <a href="https://reactjs.org/" target="_blank">
   <img width="40" heigth="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-</a>
-<a href="https://angular.io/" target="_blank">
-  <img width="50" heigth="50" title="Angular" src="https://angular.io/assets/images/logos/angular/angular.png"/>
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img width="45" heigth="45" title="Spring Boot" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"/>
 </a>
 <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank">
   <img width="50" heigth="60" title="Node js" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png"/>
