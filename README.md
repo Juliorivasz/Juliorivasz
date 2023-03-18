@@ -22,7 +22,7 @@
 
 
 ## Lenguages, Frameworks and Libraries: 
-<a href="[https://developer.mozilla.org/es/docs/Web/JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)" target="_blank">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" target="_blank">
   <img width="70" heigth="70" title="JavaScript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
