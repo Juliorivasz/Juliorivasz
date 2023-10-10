@@ -38,6 +38,7 @@
   <img width="80" heigth="80" title="Express js" src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png"/>
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorivasz&theme=tokyonight)
 
 <!---
 Juliorivasz/Juliorivasz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
