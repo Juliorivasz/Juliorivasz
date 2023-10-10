@@ -22,21 +22,6 @@
 
 
 ## Lenguages, Frameworks and Libraries: 
-<a href="https://diegoboscan.com/static/738155fe5ef8b31a8de213cbd0295fc8/743e0/js-1.png" target="_blank">
-  <img width="70" heigth="70" title="JavaScript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img width="40" heigth="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img width="40" heigth="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-</a>
-<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank">
-  <img width="50" heigth="60" title="Node js" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png"/>
-</a>
-<a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction" target="_blank">
-  <img width="80" heigth="80" title="Express js" src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png"/>
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorivasz&theme=tokyonight)
 
