@@ -4,7 +4,7 @@
 - 💞️ **I’m looking to collaborate on design UI**
 ## My PortFolio:
 <p>Click on the image to see:</p>
-<a href=["https://juliorivasz.netlify.app/" target="_blank" >
+<a href="https://juliorivasz.netlify.app/" target="_blank" >
   <img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" width="100" height="100" />
 </a>
 
